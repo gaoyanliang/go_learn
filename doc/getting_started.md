@@ -14,7 +14,6 @@
 10. [字符串](../src/string/doc.md)
 11. [函数](../src/function/doc.md)
 
-
 ## 进阶
 
 12. [数据与行为的封装](../src/encapsolution/doc.md)
@@ -50,3 +49,6 @@
 ## other
 
 - [fmt](./fmt.md)
+- [协程逃逸案例](../src/escape/goroutine_escape_test.go)
+- [rune 类型](../src/string/rune_test.go)
+- [http 案例](../src/http)
